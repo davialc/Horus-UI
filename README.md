@@ -29,7 +29,7 @@ npm install @horus-finance/react
 
 ## Documentation
 
-For full documentation, visit the [homepage](https://davialc.github.io/horus-ui/)
+For full documentation, visit the [homepage](https://horus-ui-docs.vercel.app/) 
 
 ## Author
 
